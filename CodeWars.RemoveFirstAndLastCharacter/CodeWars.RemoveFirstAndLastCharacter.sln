@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.RemoveFirstAndLastCharacter", "CodeWars.RemoveFirstAndLastCharacter\CodeWars.RemoveFirstAndLastCharacter.csproj", "{AE7C4AD8-9781-4224-B580-9429E4FDB41D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars.RemoveFirstAndLastCharacter.Test", "CodeWars.RemoveFirstAndLastCharacter.Test\CodeWars.RemoveFirstAndLastCharacter.Test.csproj", "{C7297D4D-2951-4065-ACBC-C115B2F706D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7C4AD8-9781-4224-B580-9429E4FDB41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7C4AD8-9781-4224-B580-9429E4FDB41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7C4AD8-9781-4224-B580-9429E4FDB41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7C4AD8-9781-4224-B580-9429E4FDB41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7297D4D-2951-4065-ACBC-C115B2F706D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7297D4D-2951-4065-ACBC-C115B2F706D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7297D4D-2951-4065-ACBC-C115B2F706D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7297D4D-2951-4065-ACBC-C115B2F706D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DE8611-BF52-42E9-B8E8-E2E9B4E9ABC6}
+	EndGlobalSection
+EndGlobal
